@@ -1,0 +1,9 @@
+GROUP,TIER1_PCT1,TIER2_PCT1,TIER3_PCT1
+Short-haul Europe - Morning,0.0,5.0,20.0
+Short-haul Europe - Afternoon/Evening,0.0,3.0,15.0
+Long-haul North America - Morning,3.0,10.0,30.0
+Long-haul North America - Afternoon/Evening,2.0,8.0,25.0
+Long-haul Middle East - Morning,2.0,7.0,22.0
+Long-haul Middle East - Afternoon/Evening,1.0,6.0,20.0
+Long-haul Asia - Morning,1.0,5.0,20.0
+Long-haul Asia - Afternoon/Evening,1.0,4.0,18.0
