@@ -7,8 +7,8 @@ customer booking completion (Task 2).
 ## Repo structure
 
 ```
-├── README.md                          # this file — covers both projects
-├── requirements.txt
+# this file — covers both projects
+
 ├── task1-lounge-eligibility/
 │   ├── notebooks/Lounge_Eligibility_lookup.ipynb
 │   ├── outputs/Lounge_Eligibility_Lookup_Table_-_Task_1_Completed.xlsx
